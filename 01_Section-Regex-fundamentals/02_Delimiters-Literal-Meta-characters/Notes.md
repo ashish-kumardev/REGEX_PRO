@@ -1,12 +1,12 @@
 ## Delimiters, Literal Characters & Meta-characters
 
 ### Delimiters : 
-* The character between write regex is called delimiters.
+* The characters between write regex is called delimiters.
 * Characters are used in beginning and ending an regex, called as delimiters.
 * Ex : /delimiters/ in JS.
 
 ### Literal Characters :
-* The characters which behave same like they have called delimiters.
+* The characters which behave same like they have called literal characters.
 * Characters which have no special meaning called literal characters
 * Ex : a-z, 0-9, A-Z
 
